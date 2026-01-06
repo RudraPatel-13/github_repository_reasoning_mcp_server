@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Indexes & workspace data
+mcp/workspace/
+workspace/
+
+# OS
+.DS_Store
+Thumbs.db
